@@ -15,19 +15,27 @@ body{
 .color-orange {
     color: #E76F51;
 }
-
-
-
-
-
-.feature-bike {
-    font-family: 'Poppins', sans-serif;
+.color-black {
+    color: #252B42;
 }
-
-.feature-bike__para {
+.color-happy {
+    color: #0A0826;
+}
+.subtitle-para {
     font-size: .875rem;
     font-weight: 600;
 }
+
+
+
+
+
+.feature-bike,
+.happy-client {
+    font-family: 'Poppins', sans-serif;
+}
+
+
 
 .feature-bike__img {
     max-width: 18rem;
@@ -37,3 +45,15 @@ body{
 .feature-bike__img__item {
     filter: grayscale(100%);
 }
+
+
+.happy-client__card {
+    max-width: 20.18rem;
+}
+
+.happy-client__star {
+    width: 1.3rem;
+    height: 1.3rem;
+}
+
+
