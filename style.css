@@ -15,8 +15,14 @@ body{
 .color-orange {
     color: #E76F51;
 }
+.bg-orange {
+    background-color: #E76F51;
+}
 .color-black {
     color: #252B42;
+}
+.color-green {
+    background-color: #264653;
 }
 .color-happy {
     color: #0A0826;
@@ -26,6 +32,19 @@ body{
     font-weight: 600;
 }
 
+
+
+.header {
+    font-family: 'Poppins', sans-serif;
+}
+
+.header__img {
+    max-width: 34.5rem;
+    max-height: 28rem;
+}
+.header__para {
+    max-width: 28.5rem;
+}
 
 
 
