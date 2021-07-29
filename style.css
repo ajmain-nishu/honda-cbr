@@ -1,17 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Manrope:wght@500&family=Poppins:wght@300;500;600&display=swap');
 
-/*
-font-family: 'Inter', sans-serif;
-font-family: 'Manrope', sans-serif;
-font-family: 'Poppins', sans-serif;
-*/
-
 
 body{
     margin: 0;
     padding: 0;
     
 }
+
+/* common css */
 .color-orange {
     color: #E76F51;
 }
@@ -33,7 +29,7 @@ body{
 }
 
 
-
+/* header section */
 .header {
     font-family: 'Poppins', sans-serif;
 }
@@ -48,7 +44,7 @@ body{
 
 
 
-
+/* feture+happy section */
 .feature-bike,
 .happy-client {
     font-family: 'Poppins', sans-serif;
@@ -82,7 +78,7 @@ body{
 
 
 
-
+/* frequently section */
 .accordion-button:not(.collapsed) {
     color: #383838;
     background-color: white;
@@ -101,7 +97,3 @@ body{
 .frequently__accordian__font {
     font-family: 'Inter', sans-serif;
 }
-
-
-
-
