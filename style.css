@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Manrope:wght@500&family=Poppins:wght@300;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Manrope:wght@500&family=Poppins:wght@300;500;600&display=swap');
 
 /*
 font-family: 'Inter', sans-serif;
@@ -47,13 +47,42 @@ body{
 }
 
 
+
+
+
 .happy-client__card {
     max-width: 20.18rem;
 }
 
 .happy-client__star {
-    width: 1.3rem;
-    height: 1.3rem;
+    max-width: 1.3rem;
+    max-height: 1.3rem;
 }
+
+
+
+
+
+
+.accordion-button:not(.collapsed) {
+    color: #383838;
+    background-color: white;
+    box-shadow: none;
+}
+.frequently__img {
+    max-width: 27rem;
+    max-height: 26.5rem;
+}
+.frequently__font {
+    font-family: 'Poppins', sans-serif;
+}
+.frequently__accordian {
+    max-width: 34.5rem;
+}
+.frequently__accordian__font {
+    font-family: 'Inter', sans-serif;
+}
+
+
 
 
