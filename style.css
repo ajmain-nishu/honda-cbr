@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Manrope:wght@500&family=Poppins:wght@300;500;600&display=swap');
+
+/*
+font-family: 'Inter', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Poppins', sans-serif;
+*/
+
+
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.color-orange {
+    color: #E76F51;
+}
+
+
+
+
+
+.feature-bike {
+    font-family: 'Poppins', sans-serif;
+}
+
+.feature-bike__para {
+    font-size: .875rem;
+    font-weight: 600;
+}
+
+.feature-bike__img {
+    max-width: 18rem;
+    max-height: 15.18rem;
+}
+
+.feature-bike__img__item {
+    filter: grayscale(100%);
+}
